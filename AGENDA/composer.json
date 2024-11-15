@@ -1,0 +1,14 @@
+{
+    "name": "gustavo.souza/agenda",
+    "autoload": {
+        "psr-4": {
+            "GustavoSouza\\Agenda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo.dev"
+        }
+    ],
+    "require": {}
+}
